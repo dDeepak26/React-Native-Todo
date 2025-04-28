@@ -26,7 +26,7 @@ Create Todo Screen
 ![Create Todo Screen](./screenshorts/create.jpg)
 
 Edit Todo Screen
-[!Edit Todo Screen](./screenshorts/edit.jpg)
+![Edit Todo Screen](./screenshorts/edit.jpg)
 
 profile Screen
 ![profile Screen](./screenshorts/5.jpg)
