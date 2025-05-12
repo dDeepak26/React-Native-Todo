@@ -8,6 +8,10 @@ A simple yet powerful React Native To-Do List app built with Expo, integrated wi
 - **CRUD:** Users can create, read, update, and delete tasks.
 - mark complete/incomplete tasks
 
+## APK
+
+- [Link](https://drive.google.com/file/d/14qZHJli0RgsJGxUvCHfYrYEzRvy8LTrn/view?usp=sharing)
+
 ## Screenshots
 
 Home Screen
